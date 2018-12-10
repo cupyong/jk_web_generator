@@ -1,0 +1,23 @@
+{
+  "name": "web_generator",
+  "version": "1.0.1",
+  "description": "web_generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://code@code.jikedata.com:10022/utils/web_generator.git"
+  },
+  "keywords": [
+    "antd"
+  ],
+  "author": "zengzhiyong",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.4.0",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1"
+  }
+}
