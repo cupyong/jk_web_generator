@@ -6,6 +6,9 @@
   "scripts": {
     "test": "index.js"
   },
+  "bin": {
+    "web-generator": "./bin/generator.js"
+  },
   "repository": {
     "type": "git",
     "url": "ssh://code@code.jikedata.com:10022/utils/web_generator.git"
