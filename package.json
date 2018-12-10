@@ -2,7 +2,7 @@
   "name": "web_generator",
   "version": "1.0.1",
   "description": "web_generator",
-  "main": "index.js",
+  "main": "bin/generator.js",
   "scripts": {
     "test": "index.js"
   },
