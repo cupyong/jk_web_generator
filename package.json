@@ -1,17 +1,13 @@
 {
   "name": "jk_web_generator",
-  "version": "1.0.2",
-  "description": "web_generator",
+  "version": "1.0.3",
+  "description": "jk_web_generator",
   "main": "bin/generator.js",
   "scripts": {
     "test": "index.js"
   },
   "bin": {
     "web-generator": "./bin/generator.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://code@code.jikedata.com:10022/utils/web_generator.git"
   },
   "keywords": [
     "antd"
