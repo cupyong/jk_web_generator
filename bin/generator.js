@@ -45,7 +45,7 @@ if (!name) {
 }
 
 if (!templates[template]) {
-  console.log(color.red(`  Template "${program.template}" is not available now. Please run 'zhike-generator -l' to show all available templates for now.`));
+  console.log(color.red(`  Template "${program.template}" is not available now. Please run 'jk-generator -l' to show all available templates for now.`));
   console.log();
   return;
 }
