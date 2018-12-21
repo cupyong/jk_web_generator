@@ -1,6 +1,6 @@
 {
   "name": "jk_web_generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jk_web_generator",
   "main": "bin/generator.js",
   "scripts": {

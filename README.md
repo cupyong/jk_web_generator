@@ -10,7 +10,7 @@ npm i jk_web_generator -g
 
 ### 第二步
 ```
-web_generator fileName
+web-generator fileName
 ```
 
 
